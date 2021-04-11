@@ -9,6 +9,11 @@ public class MyGitClass {
 		System.out.println("my third commit");
 		System.out.println("My 4 th commit");
 		System.out.println("My 5 th commit");
+		System.out.println("uzak sunucudaki kodlarim");
+		System.out.println("yasin beyin kodu");
+		
+		
+		System.out.println("");
 		
 		
 		/* git init ---> local da repository olustur.  Projenin icinde .git folderi olusturur
