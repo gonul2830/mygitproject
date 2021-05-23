@@ -6,7 +6,8 @@ public class MyGitClass {
 		System.out.println("version 1");
 		System.out.println("My second commit");
 		System.out.println("my third commit");
-		
+		System.out.println("My 4th commit");
+		System.out.println("My 5th commit");
 
 	}
 
