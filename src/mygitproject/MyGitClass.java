@@ -10,7 +10,8 @@ public class MyGitClass {
 		System.out.println("My 5th commit");
 		System.out.println("Uzak sunucudaki kodum");
 		System.out.println("Uzak sunucudaki kodum deneme kendi kendime");
-        System.out.println("Localde takim arkadasimin kodlari oldugu satirdaki benim kodlar");
+		System.out.println("Localde takim arkadasimin kodlari oldugu satirdaki benim kodlar");
+		System.out.println("Takim arkadasimin kodlari burada ");
 	}
 
 }
