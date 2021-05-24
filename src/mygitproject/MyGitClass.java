@@ -13,7 +13,7 @@ public class MyGitClass {
 		System.out.println("Localde takim arkadasimin kodlari oldugu satirdaki benim kodlar");
 		System.out.println("Takim arkadasimin kodlari burada ");
 		System.out.println("Uzak sunucudaki 15/satirdaki kodum");
-		
+		System.out.println("localdeki notlarým");
 	}
 
 }
